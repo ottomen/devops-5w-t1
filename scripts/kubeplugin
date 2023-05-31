@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Instruction is in README.md to this repository.
+
 # Define command-line arguments
 RESOURCE_TYPE=$1
 NAMESPACE=$2
